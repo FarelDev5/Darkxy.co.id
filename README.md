@@ -25,7 +25,7 @@ Ikuti langkah-langkah berikut untuk menginstal **Darkxy** beserta semua bahan ya
 2. **Clone Repository Darkxy**
    Clone repositori Darkxy dari GitHub:
    ```bash
-   git clone https://github.com/FarelDev5/Darkxy
+   git clone https://github.com/FarelDev5/Darkxy.co.id
    ```
 
 3. **Masuk ke Direktori Darkxy**
