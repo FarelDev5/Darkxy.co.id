@@ -31,7 +31,7 @@ Ikuti langkah-langkah berikut untuk menginstal **Darkxy** beserta semua bahan ya
 3. **Masuk ke Direktori Darkxy**
    Pindah ke direktori `Darkxy`:
    ```bash
-   cd Darkxy
+   cd Darkxy.co.id
    ```
 
 4. **Instal Semua Bahan yang Dibutuhkan**
