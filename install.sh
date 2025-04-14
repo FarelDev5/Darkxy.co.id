@@ -4,7 +4,7 @@
 pkg install figlet
 clear
 echo -e "\033[31m$(figlet -f slant "DARKXY INS")\033[0m"
-echo "$(tput setaf 5)Author : Farel Alfareza$(tput sgr0)"
+echo "Author : Farel Alfareza"
 echo '======================================='
 echo 'Melanjutkan penginstalan.....'
 
