@@ -335,6 +335,7 @@ def main():
             os.system('clear')
             show_logo()
             discalimer()
+            author_info()
             device_info()
             
 
