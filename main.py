@@ -32,7 +32,9 @@ def discalimer():
     print(Panel(
         "[bold green]WELCOME TO DARXY TOOLS[/bold green]\n"
         "[bold cyan]Tools Ini Di buat untuk belajar, saya tidak akan bertanggung jawab atas tindakan anda, menggunakan tools ini.[/bold cyan]\n"
-        "[bold yellow]Harap Gunakan Tools Ini Dengan Bijak[/bold yellow]",
+        "[bold yellow]Harap Gunakan Tools Ini Dengan Bijak[/bold yellow]"
+        "Author : Farel Alfareza"
+        "Instagram / tiktok : farel.project_5",
         title="[bold magenta]⚠ DISSCLAIMER ⚠[/bold magenta]", expand=False
     ))
 
