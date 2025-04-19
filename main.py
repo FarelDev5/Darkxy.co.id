@@ -20,7 +20,7 @@ console = Console()
 
 def author_info():
     print(Panel(
-        "[bold white]➥ Makasih ya udh pake tools ini, smoga kalian sehat selalu.[/bold white]\n"
+        "[bold white]• Makasih ya udh pake tools ini, smoga kalian sehat selalu.[/bold white]\n"
         ))
     print(Panel(
         "[bold yellow]Author : farel alfareza[/bold yellow]\n"
