@@ -8,7 +8,8 @@
 - **Informasi Jaringan**: Menampilkan informasi IP dan koneksi DNS.
 - **Kompatibilitas Perintah**: Mendukung perintah-perintah dasar Termux dan Linux.
 - **Penginstalan Paket**: Mudah menginstal berbagai paket yang diperlukan untuk pengoperasian Termux.
-- **Fitur Tambahan**: Fitur tambahan yang dirancang untuk meningkatkan pengalaman pengguna di Termux.
+- **Fitur Tambahan**: Fitur tambahan yang dirancang untuk meningkatkan pengalaman pengguna di Termux. dan melakukan pelacakan lokasi menggunakan alamat IP
+
 
 ## Persyaratan
 Pastikan Anda memiliki **Python 3** yang sudah terinstal di Termux.
